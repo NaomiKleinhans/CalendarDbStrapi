@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_shared_addresses",
+  "info": {
+    "displayName": "Address"
+  },
+  "options": {},
+  "attributes": {
+    "Street": {
+      "type": "string"
+    },
+    "City": {
+      "type": "string"
+    },
+    "State": {
+      "type": "string"
+    },
+    "ZipCode": {
+      "type": "biginteger"
+    },
+    "Country": {
+      "type": "string"
+    }
+  }
+}
